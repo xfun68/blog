@@ -1,0 +1,6 @@
+title: Exciting! My first post!
+author: xfun68
+date: 2010/09/21
+
+woohoo!
+测试 中文！
