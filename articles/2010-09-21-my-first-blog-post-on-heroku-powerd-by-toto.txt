@@ -1,4 +1,4 @@
-title: Exciting! My first post!
+title: my first blog post on heroku powerd by toto
 author: xfun68
 date: 2010/09/21
 
